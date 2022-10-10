@@ -19,4 +19,4 @@ opdracht 8: bash/doelstelling-8.sh
 opdracht 9: bash/doelstelling-9.sh
 
 
-opdracht 10: _link_
+opdracht 10: https://starlit-zabaione-d0d641.netlify.app/
